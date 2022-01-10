@@ -1,0 +1,7 @@
+{
+  "name": "pruebasForo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
